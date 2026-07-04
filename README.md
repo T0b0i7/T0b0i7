@@ -33,7 +33,36 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎌 Au-delà du code
+### 🎌 Otaku Collection
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://myanimelist.net/anime/1" target="_blank">
+        <img src="https://img.shields.io/badge/Berserk-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
+        <br/><b>Berserk</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://myanimelist.net/anime/21" target="_blank">
+        <img src="https://img.shields.io/badge/One_Piece-FF0000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
+        <br/><b>One Piece</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://myanimelist.net/anime/20" target="_blank">
+        <img src="https://img.shields.io/badge/Naruto-F79800?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
+        <br/><b>Naruto</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://myanimelist.net/anime/19" target="_blank">
+        <img src="https://img.shields.io/badge/Monster-005C29?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
+        <br/><b>Monster</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ```yaml
 Manga/Animé  │  Berserk · Vagabond · Vinland Saga · One Piece · Naruto · Akira
@@ -46,9 +75,21 @@ Hack/Mindset │  Steins;Gate · Serial Experiments Lain · Death Note · Code G
 | Concept dev | Parallel anime |
 |---|---|
 | `git commit --amend` | "J'aurais dû faire ça avant..." — Okabe Rintarō |
-| Debugger 3h pour un point-virgule | L'entraînement de Guts sous la pluie |
-| Production crash | "C'était le plan de L depuis le début" |
-| Rewrite du projet pour la 5e fois | L'Escalier Infini de Sword Art Online |
+| Debugger 3h pour un point-virgule | ⚔️ L'entraînement de Guts sous la pluie |
+| Production crash | 😈 "C'était le plan de L depuis le début" |
+| Rewrite du projet pour la 5e fois | 🔄 L'Escalier Infini de Sword Art Online |
+| Déployer à 3h du mat | 🍜 Kakashi en retard (toujours) |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚡ Otaku Power Quotes
+
+```yaml
+dev:      "Le code tourne enfin… comme le moteur de l'Escalier Infini"
+otaku:    "Berserk m'a appris à lutter — chaque bug est un Griffith à abattre"
+ninja:    "Un vrai dev réécrit le legacy en silence — comme un ninja dans l'ombre"
+hacker:   "El Psy Kongroo — le debuggage est une question de lecture de lignes du monde"
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -88,13 +129,12 @@ Hack/Mindset │  Steins;Gate · Serial Experiments Lain · Death Note · Code G
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+  <sub>
+    <i>"Le code est poésie, la simplicité est élégance"</i>
+    <br/>
+    <b>T0b0i7</b> — Dev & Otaku 🎌
+  </sub>
 
-```yaml
-dev:      "Le code est poésie, la simplicité est élégance"
-otaku:    "Berserk m'a appris qu'il faut lutter — coder, c'est lutter aussi"
-ninja:    "Un vrai dev ne se plaint pas du legacy — il le réécrit en silence"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=100&section=footer" width="100%" />
-
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=100&section=footer" width="100%" />
 </div>
