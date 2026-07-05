@@ -1,10 +1,13 @@
 [![T0b0i7 Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Eucher%20ABATTI&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=T0b0i7%20%E2%80%A2%20D%C3%A9veloppeur%20Full-Stack&descAlignY=50)](https://github.com/T0b0i7)
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=T0b0i7&label=Profile%20views&color=red&style=for-the-badge)](https://github.com/T0b0i7)
-[![GitHub](https://img.shields.io/badge/GitHub-@T0b0i7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T0b0i7)
-<a href="https://linkedin.com/in/eucher-abatti-7a9472283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/bi.to.77235" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="mailto:abattieucher@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="https://github.com/T0b0i7"><img src="https://komarev.com/ghpvc/?username=T0b0i7&label=Visiteurs&color=red&style=for-the-badge" alt="visitors" /></a>
+  <a href="https://github.com/T0b0i7"><img src="https://img.shields.io/github/stars/T0b0i7?style=for-the-badge&logo=github&color=yellow&label=Stars%20total" alt="stars" /></a>
+  <a href="https://github.com/T0b0i7"><img src="https://img.shields.io/github/followers/T0b0i7?style=for-the-badge&logo=github&color=blue&label=Followers" alt="followers" /></a>
+  <a href="https://linkedin.com/in/eucher-abatti-7a9472283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/bi.to.77235" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:abattieucher@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -33,32 +36,44 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎌 Otaku Collection
+### 🎌 Otaku Attack — Collection Manga
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center">
       <a href="https://myanimelist.net/anime/1" target="_blank">
-        <img src="https://img.shields.io/badge/Berserk-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
-        <br/><b>Berserk</b>
+        <img src="https://media.giphy.com/media/K0JrA2VbkFy2A/giphy.gif" width="80" height="80" style="border-radius: 10px;" alt="Berserk"/><br/>
+        <b>Berserk</b>
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="https://myanimelist.net/anime/21" target="_blank">
-        <img src="https://img.shields.io/badge/One_Piece-FF0000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
-        <br/><b>One Piece</b>
+        <img src="https://media.giphy.com/media/tIZUToOMEFGM0/giphy.gif" width="80" height="80" style="border-radius: 10px;" alt="One Piece"/><br/>
+        <b>One Piece</b>
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="https://myanimelist.net/anime/20" target="_blank">
-        <img src="https://img.shields.io/badge/Naruto-F79800?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
-        <br/><b>Naruto</b>
+        <img src="https://media.giphy.com/media/Nzz86dByLtYTS/giphy.gif" width="80" height="80" style="border-radius: 10px;" alt="Naruto"/><br/>
+        <b>Naruto</b>
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center">
+      <a href="https://myanimelist.net/anime/47" target="_blank">
+        <img src="https://media.giphy.com/media/l2JhFQCtKePKadhTO/giphy.gif" width="80" height="80" style="border-radius: 10px;" alt="Akira"/><br/>
+        <b>Akira</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://myanimelist.net/anime/9253" target="_blank">
+        <img src="https://media.giphy.com/media/TzgqVLWCNRNWF71W2W/giphy.gif" width="80" height="80" style="border-radius: 10px;" alt="Steins;Gate"/><br/>
+        <b>Steins;Gate</b>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://myanimelist.net/anime/19" target="_blank">
-        <img src="https://img.shields.io/badge/Monster-005C29?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjF2LTJhNCA0IDAgMCAwLTQtNEg4YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjwvc3ZnPg==" />
-        <br/><b>Monster</b>
+        <img src="https://media.giphy.com/media/NNVrFKZF3s61W/giphy.gif" width="80" height="80" style="border-radius: 10px;" alt="Monster"/><br/>
+        <b>Monster</b>
       </a>
     </td>
   </tr>
@@ -70,7 +85,7 @@ Philo        │  Psycho-Pass · Ghost in the Shell · Monster · Evangelion
 Hack/Mindset │  Steins;Gate · Serial Experiments Lain · Death Note · Code Geass
 ```
 
-### ⚔️ Le codeur vs L'otaku
+### ⚔️ Le codeur vs L'otaku — même combat
 
 | Concept dev | Parallel anime |
 |---|---|
