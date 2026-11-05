@@ -18,9 +18,6 @@ Application d’entraînement à la frappe avec tests chronométrés, plusieurs 
 ### [Akouè App](https://github.com/T0b0i7/akoue-app)
 Application mobile de gestion financière personnelle : portefeuilles, transactions et statistiques, avec Expo, React Native et Supabase.
 
-### [NaviGarde IA](https://github.com/T0b0i7/NaviGarde_IA)
-Plateforme de supervision maritime avec IA assistée pour l’inspection, la gestion des alertes, la génération de rapports et la surveillance des embarcations.
-
 ### [Havre](https://github.com/T0b0i7/havre)
 Expérience web pour un projet immobilier : présentation, catalogue, journal et visite 3D à partir d’un plan.
 
